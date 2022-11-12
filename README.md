@@ -45,7 +45,6 @@
           <p>While the view in the city is beautiful, the sounds are not as lovely. Below you'll see an example of the view and the sounds you'll deal with in NYC on a daily basis.</p>
         </article>
         <video src="video" controls>
-
         </video>
         <embed src=https://content.codecademy.com/courses/Semantic%20HTML/nyc-skyline.jpeg>
         <audio controls src="https://content.codecademy.com/courses/Semantic%20HTML/nyc-sounds.mov">
@@ -56,9 +55,5 @@
       <p>Posted by: Aaron Frazier Jr</p>
       <p>Contact information: Aaronfrazier@northstardevelopmentllc.com</p>
     </footer>
-
-     
-     
-     
   </body>
 </html>
